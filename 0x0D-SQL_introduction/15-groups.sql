@@ -1,5 +1,5 @@
--- Holberton School SQL Introduction
--- Alex Senges
+-- Alx SQL Introduction
+-- Oladipupo Ajabi
 SELECT 
 score, 
 COUNT(score) AS number 

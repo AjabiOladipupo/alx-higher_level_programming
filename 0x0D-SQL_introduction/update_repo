@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod -R 777 *
 git add .
-git commit -m "holbertonschool-higher_level_programming"
+git commit -m "ALX-higher_level_programming"
 git push --set-upstream origin main

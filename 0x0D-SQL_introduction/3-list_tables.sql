@@ -1,4 +1,4 @@
--- Holberton School SQL Introduction
--- Alex Senges
+-- ALX SQL Introduction
+-- Oladipupo Ajabi
 SHOW TABLES;
 

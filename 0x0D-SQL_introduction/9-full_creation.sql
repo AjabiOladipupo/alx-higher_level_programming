@@ -1,5 +1,5 @@
--- Holberton School SQL Introduction
--- Alex Senges
+-- Alx SQL Introduction
+-- Oladipupo Ajabi
 CREATE 
 TABLE IF NOT EXISTS `second_table` (
 	`id` INT, 

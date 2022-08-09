@@ -1,5 +1,5 @@
--- Holberton School SQL Introduction
--- Alex Senges
+-- Alx SQL Introduction
+-- Oladipupo Ajabi
 DELETE 
 FROM 
 second_table 

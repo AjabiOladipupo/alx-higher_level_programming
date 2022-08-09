@@ -1,5 +1,5 @@
--- Holberton School SQL Introduction
--- Alex Senges
+-- Alx SQL Introduction
+-- Oladipupo Ajabi
 SELECT 
 COUNT(id) 
 FROM `first_table` 

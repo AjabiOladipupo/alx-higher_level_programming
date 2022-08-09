@@ -1,5 +1,5 @@
--- Holberton School SQL Introduction
--- Alex Senges
+-- Alx SQL Introduction
+-- Oladipupo Ajabi
 INSERT INTO `first_table`(
 	id, 
 	name
